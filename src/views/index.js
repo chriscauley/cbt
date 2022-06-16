@@ -1,3 +1,5 @@
-import Home from './Home'
+import HomeView from './HomeView.vue'
+import NewQuiz from './NewQuiz'
+import QuizView from './QuizView.vue'
 
-export default { Home }
+export default { HomeView, NewQuiz, QuizView }

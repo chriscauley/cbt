@@ -1589,6 +1589,13 @@
   dependencies:
     "@types/node" "*"
 
+"@unrest/vue-mousetrap@^0.0.10":
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/@unrest/vue-mousetrap/-/vue-mousetrap-0.0.10.tgz#698d1743ebb2ae202686bcb5578c9bf7a3edc2bd"
+  integrity sha512-T8mZOOKwiSJkF0RW7af5nrWDUnH2cp/JMTSN8O7RYSXM5O1v8FbNa5yAVcbSmz8yjv0U2vBsilvL2UfMPfGgKg==
+  dependencies:
+    mousetrap "^1.6.5"
+
 "@unrest/vue-storage@^0.0.17":
   version "0.0.17"
   resolved "https://registry.yarnpkg.com/@unrest/vue-storage/-/vue-storage-0.0.17.tgz#7b8e7d2bb842db95011b0ddbe93ccfce4d6fbc27"
@@ -6258,6 +6265,11 @@ module-alias@^2.2.2:
   version "2.2.2"
   resolved "https://registry.yarnpkg.com/module-alias/-/module-alias-2.2.2.tgz#151cdcecc24e25739ff0aa6e51e1c5716974c0e0"
   integrity sha512-A/78XjoX2EmNvppVWEhM2oGk3x4lLxnkEA4jTbaK97QKSDjkIoOsKQlfylt/d3kKKi596Qy3NP5XrXJ6fZIC9Q==
+
+mousetrap@^1.6.5:
+  version "1.6.5"
+  resolved "https://registry.yarnpkg.com/mousetrap/-/mousetrap-1.6.5.tgz#8a766d8c272b08393d5f56074e0b5ec183485bf9"
+  integrity sha512-QNo4kEepaIBwiT8CDhP98umTetp+JNfQYBWvC1pc6/OAibuXtRcxZ58Qz8skvEHYvURne/7R8T5VoOI7rDsEUA==
 
 mrmime@^1.0.0:
   version "1.0.1"

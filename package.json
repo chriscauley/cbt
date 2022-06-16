@@ -10,6 +10,7 @@
   "dependencies": {
     "@popperjs/core": "^2.11.5",
     "@unrest/vue": "^0.2.10",
+    "@unrest/vue-mousetrap": "^0.0.10",
     "@unrest/vue-storage": "^0.0.17",
     "@vue/cli": "^5.0.6",
     "core-js": "^3.8.3",

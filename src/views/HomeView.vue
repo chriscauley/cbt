@@ -13,7 +13,7 @@ export default {
   computed: {
     sets() {
       return Object.entries(sets).map(([slug, questions]) => {
-        const to = `/question-set/${slug}/`
+        const to = `/quiz/${slug}/`
         return { slug, questions, to, name: slug }
       })
     }
