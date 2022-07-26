@@ -1,0 +1,26 @@
+.app-nav {
+  display: flex;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+.app-wrapper {
+  margin: 1rem;
+}
+
+.question {
+  border-bottom: 1px solid gray;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.question h3 {
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.app-nav .fa-check {
+  color: #22aa88;
+}

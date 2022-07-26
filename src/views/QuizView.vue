@@ -45,7 +45,7 @@ export default {
       return {
         question: (qi) => ['question', qi === this.question_index && '-active'],
         answer: (qi, ai) => [
-          'question',
+          'answer',
           this.answers[qi] === ai && '-active',
         ],
       }
@@ -67,5 +67,8 @@ export default {
 <style>
 .question.-active {
   outline: 3px solid black;
+}
+.answer.-active{
+  outline: 2px solid black;
 }
 </style>

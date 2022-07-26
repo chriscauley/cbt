@@ -1589,6 +1589,11 @@
   dependencies:
     "@types/node" "*"
 
+"@unrest/tailwind@^0.1.19":
+  version "0.1.19"
+  resolved "https://registry.yarnpkg.com/@unrest/tailwind/-/tailwind-0.1.19.tgz#3c40a0179093a4446781c9b915fdf2abe811c76b"
+  integrity sha512-UwNkskvJg9byaq/zLybnkHiHfm5uD7C4dpwJoAHsZpQYIMC1X7+XB6OhJCr8V7ZpyOeSf+hWXVF9AnrTmmnJtg==
+
 "@unrest/vue-mousetrap@^0.0.10":
   version "0.0.10"
   resolved "https://registry.yarnpkg.com/@unrest/vue-mousetrap/-/vue-mousetrap-0.0.10.tgz#698d1743ebb2ae202686bcb5578c9bf7a3edc2bd"
